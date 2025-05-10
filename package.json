@@ -1,0 +1,16 @@
+{
+  "name": "brazil-legislation-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Brazilian legislation from Câmara dos Deputados",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.5.0",
+    "mongodb": "^6.3.0",
+    "p-limit": "^6.2.0"
+  }
+}
