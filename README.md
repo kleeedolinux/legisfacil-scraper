@@ -24,16 +24,6 @@ Um scraper Node.js simples para extrair dados de legislação do portal da Câma
 ## Instalação
 
 1.  Clone este repositório ou baixe o arquivo `scraper.js`.
-    ```bash
-    # Se você tiver um repositório git
-    # git clone <url_do_seu_repositorio>
-    # cd <nome_do_repositorio>
-
-    # Ou apenas crie um diretório e coloque o scraper.js dentro
-    mkdir legisfacil-scraper
-    cd legisfacil-scraper
-    # Adicione o arquivo scraper.js aqui
-    ```
 
 2.  Instale as dependências:
     ```bash
