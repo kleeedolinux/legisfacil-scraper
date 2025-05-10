@@ -1,5 +1,3 @@
-Okay, aqui está um README simples e acessível para o seu `scraper.js`, incluindo a licença MIT.
-
 # LegisFacil Scraper
 
 Um scraper Node.js simples para extrair dados de legislação do portal da Câmara dos Deputados (`camara.leg.br`) e salvá-los em um banco de dados MongoDB.
